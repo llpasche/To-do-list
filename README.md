@@ -4,22 +4,22 @@
 CRUD system that emmulates a simple task manager.
 The user may be able to:
 ### User operations:
-Create a new user; 
-Assign users to tasks;
-List all users;
-Find an user by name or id;
-Get tasks by the creator id;
-Get responsibles for a task;
-Edit user;
-Remove responsible for a task;
+Create a new user;\
+Assign users to tasks;\
+List all users;\
+Find an user by name or id;\
+Get tasks by the creator id;\
+Get responsibles for a task;\
+Edit user;\
+Remove responsible for a task;\
 Delete user.
 ### Task operations:
-Create a new task;
-Find task;
-Get task by its status;
-Get overdue tasks;
-Get task by id;
-Edit status of a task;
+Create a new task;\
+Find task;\
+Get task by its status;\
+Get overdue tasks;\
+Get task by id;\
+Edit status of a task;\
 Delete task.
 
 ## Technologies used
